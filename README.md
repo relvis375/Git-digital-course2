@@ -25,3 +25,4 @@
 * git log --online --decorate ----> Saber em qual parte do branch estou
 * git branch  nome_da_nova_branch -----> Criar nova branch
 * git checkout nome_da_branch  ------> Trocar a cabeza(main) para novo branch
+* git merge testing   ------> juntar as diferentes branch
