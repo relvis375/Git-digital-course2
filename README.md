@@ -22,3 +22,6 @@
 * git pull ---> no pc ele combina a nuvem com o arquivo
 * git fetch ---> serve para ver lo que esta en la nuve porem solo em peso resumido para usa el siguiente comando
 * git diff nome_remoto/branck ---> Com este comando si podemos ver todo lo nuevo antes de actualizar oring/main 
+* git log --online --decorate ----> Saber em qual parte do branch estou
+* git branch  nome_da_nova_branch -----> Criar nova branch
+* git checkout nome_da_branch  ------> Trocar a cabeza(main) para novo branch
