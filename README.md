@@ -13,7 +13,7 @@ git restore nome_do_arquivo --> Para arquivos modificados(nao no add ou commit)
 git restore --staged ---> Para arquivos que estao ataged (coloca o arquivo no modified)
 
 
-## subir online
+## subir online na plataforma github
 git push ---> Disponibilizar online
 
 
