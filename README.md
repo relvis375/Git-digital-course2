@@ -9,7 +9,9 @@ git log ---> Mostra Historico dos commit do arquivo na pasta
 git commit -m "comentario"----> Aceptar y guardar el arquivo
 ## uso do comando restore
 git log ---> historico das alteracoes no commit
-git restore nome_do_arquivo -->
+git restore nome_do_arquivo --> Para arquivos modificados(nao no add ou commit)
+git restore --staged ---> Para arquivos que estao ataged (coloca o arquivo no modified)
+
 
 ## subir online
 git push ---> Disponibilizar online
