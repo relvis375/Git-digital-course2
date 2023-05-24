@@ -14,6 +14,8 @@ git restore --staged ---> Para arquivos que estao ataged (coloca o arquivo no mo
 
 
 ## subir online na plataforma github
+git remote ---> nome do repositorio
+git push (nome obtodo do remote) (nome da Branch canto inferior desta tela)
 git push ---> Disponibilizar online
 
 
