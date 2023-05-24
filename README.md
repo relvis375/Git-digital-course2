@@ -17,5 +17,3 @@ git restore --staged ---> Para arquivos que estao ataged (coloca o arquivo no mo
 git push ---> Disponibilizar online
 
 
-
-locura que debemos eliminar
