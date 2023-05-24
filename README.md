@@ -19,4 +19,6 @@
 * git push ---> Disponibilizar online
 
 ## Comandos na nuvem (github)
-* git pull
+* git pull ---> no pc ele combina a nuvem com o arquivo
+* git fetch ---> serve para ver lo que esta en la nuve porem solo em peso resumido para usa el siguiente comando
+* git diff nome_remoto/branck ---> Com este comando si podemos ver todo lo nuevo antes de actualizar oring/main 
