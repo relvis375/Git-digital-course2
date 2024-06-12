@@ -1,4 +1,4 @@
-# Git-digital-course2
+# Git-digital-course
 ## Aprendiendo a usar git 
 ## Comandos de git:
 * git clone caminho.... (clonar a pasta ao pc)
